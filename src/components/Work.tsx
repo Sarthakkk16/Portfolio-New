@@ -15,7 +15,7 @@ const projects = [
     title: "Swiggy Power BI Dashboard",
     category: "Sales Performance Analysis",
     tools: "Power BI, SQL, DAX",
-    image: "/images/Swiggy logo.png",
+    image: "public/images/Swiggy logo.png",
     link: "https://github.com/Sarthakkk16/Swiggy-Power-BI-Dashboard-Sales-Performance-Analysis",
   },
   {
